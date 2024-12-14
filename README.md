@@ -1,10 +1,25 @@
+### 👋 About Me  
+Hi there! I’m a **Software Engineer, Content Creator, and Community Enthusiast** passionate about building user-friendly and efficient web solutions. I specialize in sharing knowledge, creating documentation, and exploring the intersections of **web engineering, headless commerce, UI/UX design, and digital marketing**.  
 
-I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a FREELANCER. I'm passionate about sharing knowledge, documentation, web engineering, headless commerce, UI/UX Designer, Digital Marketer and others. 
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://my-curriculum-vitae-six.vercel.app/) and contact me by emailing talktocleavon@gmail.com
+### 🎓 Education & Learning Journey  
+- 💡 I graduated from [AltSchool Africa](https://altschoolafrica.com/schools/engineering), **School of Software Engineering**, Class of 2023.  
+- 📚 I've completed several courses on [Udemy](https://www.udemy.com/) and continue to upgrade my skills.  
+
+### 🛠️ Skills & Tools  
+- Proficient in: **Python**, **FastAPI**, **HTML**, **CSS**, and **WordPress**.  
+- Currently learning: **Django**, **JavaScript**, and **ReactJS**.  
+
+### 🌱 Goals & Interests  
+- 👨‍💻 Actively seeking opportunities to contribute to **open-source projects**, participate in **hackathons**, and explore **internships** and **entry-level roles**.  
+- 💼 Career interests: **Software Engineering**, **Frontend Development**, and **UI Engineering** (Intern or Junior level).  
+
+### ✨ Fun Fact  
+- I thrive on solving challenges, creating impactful digital solutions, and documenting my journey to help others grow.
+
+### 📄 Connect With Me  
+- 📧 Email: [talktocleavon@gmail.com](mailto:talktocleavon@gmail.com)  
+- 💻 View my resume: [Here](https://my-curriculum-vitae-six.vercel.app/)  
+
 ---
+
 
