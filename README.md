@@ -18,7 +18,7 @@ Hi there! I’m a **Software Engineer, Content Creator, and Community Enthusiast
 
 ### 📄 Connect With Me  
 - 📧 Email: [talktocleavon@gmail.com](mailto:talktocleavon@gmail.com)  
-- 💻 View my resume: [Here](https://my-curriculum-vitae-six.vercel.app/)  
+- 💻 View my Portfolio: [Here](https://cleavon-portfolio.netlify.app/)  
 
 ---
 
