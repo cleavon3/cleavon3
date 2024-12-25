@@ -1,5 +1,5 @@
 ### 👋 About Me  
-Hi there! I’m a **Software Engineer, Content Creator, and Community Enthusiast** passionate about building user-friendly and efficient web solutions. I specialize in sharing knowledge, creating documentation, and exploring the intersections of **web engineering, headless commerce, UI/UX design, and digital marketing**.  
+Hi there! I’m a **Software Engineer, Content Creator, and Community Enthusiast** passionate about building user-friendly and efficient web solutions. I specialize in sharing knowledge, creating documentation, and exploring the intersections of **web engineering, python programming enthusiast, UI/UX design, and digital marketing**.  
 
 ### 🎓 Education & Learning Journey  
 - 💡 I graduated from [AltSchool Africa](https://altschoolafrica.com/schools/engineering), **School of Software Engineering**, Class of 2023.  
